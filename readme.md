@@ -43,3 +43,4 @@ An Angular application with multiple states using UI-Router.
 ## Additional Resources
 
 - [UI-Router docs](http://angular-ui.github.io/ui-router/site/#/api/ui.router)
+- [UI-Router Video ](https://www.youtube.com/watch?v=5JJFiAS1ys4)
